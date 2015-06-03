@@ -1,0 +1,11 @@
+Package: vwp
+Title: Preprocessing Visual World Paradigm Data
+Version: 0.1
+Date: 2015-06-03
+Authors@R: c( person("Vince", "Porretta", email="SOME.MAIL@gmail.com", role = c("aut")), person("Jacolien", "van Rij", email="vanrij.jacolien@gmail.com", role = c("aut", "cre")) )
+Description: We need to describe some more extensive description here. 
+License: GPL (>=2) 
+LazyData: true
+Depends: R (>= 2.10)
+VignetteBuilder: knitr
+Suggests: knitr
